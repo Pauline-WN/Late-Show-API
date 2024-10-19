@@ -34,7 +34,7 @@ bash
 
 Copy code
 
- `git clone https://github.com/your-username/lateshow-api.git`
+ `git clone https://git@github.com:Pauline-WN/Late-Show-API.git`
 
 Navigate into the project directory:
 
