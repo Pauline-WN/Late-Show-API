@@ -42,7 +42,7 @@ bash
 
 Copy code
 
-`cd lateshow-api`
+`Late-Show-API`
 
 1.  Create and activate a virtual environment:
 
